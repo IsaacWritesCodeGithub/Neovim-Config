@@ -3,6 +3,7 @@
 """ Vim-Plug
 call plug#begin()
 
+" [Linter/Fixer]/Autocomplete
 Plug 'dense-analysis/ale'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
